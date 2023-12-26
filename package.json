@@ -1,0 +1,11 @@
+{
+  "name": "servidor-mqtt-nodejs",
+  "version": "1.0.0",
+  "description": "Servidor hecho con node.js para mensaje mqtt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cesar delgado",
+  "license": "ISC"
+}
